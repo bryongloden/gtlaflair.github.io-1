@@ -18,8 +18,9 @@ avatar: "/img/me.jpg"
 # List of links in the navigation bar
 navbar-links:
   Teaching: "teaching"
-  Projects: "research"
+  Projects: "projects"
   About/Contact: "aboutme"
+  Links: "links"
   Home: ""
 
 # --- Footer options --- #
