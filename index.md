@@ -7,7 +7,6 @@ meta-title: "Geoff LaFlair"
 meta-description: "Lecturer, Director of Assessment in the Center for ESL at the University of Kentucky"
 bigimg:
   - "/img/big-imgs/Aspen1.jpg" : "Inner Basin"
-  - "/img/big-imgs/Aspen2.jpg" : "Inner Basin"
   - "/img/big-imgs/BM_century.jpg" : "Bear Mountain"
   - "/img/big-imgs/BM_lizard.jpg" : "Bear Mountain"
   - "/img/big-imgs/BM_Peaks.jpg" : "Bear Mountain"
@@ -19,11 +18,10 @@ bigimg:
   - "/img/big-imgs/granite.jpg" : "Grand Canyon"
   - "/img/big-imgs/IB_hike.jpg" : "Inner Basin"
   - "/img/big-imgs/IB_pano.jpg" : "Inner Basin"
-  - "/img/big-imgs/Kachina_trail.jpg" : "Kachina Trail"
-  - "/img/big-imgs/Oldchob.jpg" : "Grand Canyon"
+  - "/img/big-imgs/Oldchub.jpg" : "Grand Canyon"
   - "/img/big-imgs/Palisades_moss.jpg" : "Palisades"
   - "/img/big-imgs/RR_KYriver.jpg" : "Raven Run"
-  - "/img/big-imgs/Sheltowee.jpg" : "Sheltowee Trace"
+  - "/img/big-imgs/Sheltowee_sign.jpg" : "Sheltowee Trace"
 ---
 
 
