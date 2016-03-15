@@ -1,1 +1,1 @@
-This is the repository for [gtlaflair.com](http://gtlaflair.com/)
+This is the repository for [gtlaflair.github.io](http://gtlaflair.github.io/)
