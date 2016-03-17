@@ -13,7 +13,7 @@ bigimg:
   - "/img/big-imgs/GC_lizard.jpg" : "Grand Canyon"
   - "/img/big-imgs/GC_pano.jpg" : "Grand Canyon"
   - "/img/big-imgs/GC_river.jpg" : "Grand Canyon"
-  - "/img/big-imgs/granite.jpg" : "Grand Canyon"
+  - "/img/big-imgs/Granite.jpg" : "Grand Canyon"
   - "/img/big-imgs/IB_hike.jpg" : "Inner Basin"
   - "/img/big-imgs/IB_pano.jpg" : "Inner Basin"
   - "/img/big-imgs/Palisades_moss.jpg" : "Palisades"
