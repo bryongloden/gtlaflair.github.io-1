@@ -4,4 +4,4 @@ layout: page
 
 Under Construction
 
-<p>Asterisk icon: <span class="glyphicon glyphicon-breifcase"></span></p>
+<p>Asterisk icon: <span class="glyphicon glyphicon-briefcase"></span></p>
