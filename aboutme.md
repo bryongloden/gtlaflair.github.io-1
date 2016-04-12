@@ -4,7 +4,5 @@ layout: page
 
 Under Construction
 
-
- <span class="glyphicon glyphicon-briefcase"></span>
-
+<p>Plus icon: <span class="glyphicon glyphicon-plus"></span></p>
 
