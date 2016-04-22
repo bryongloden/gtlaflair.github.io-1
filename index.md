@@ -21,4 +21,8 @@ bigimg:
   - "/img/big-imgs/Sheltowee_sign.jpg" : "Sheltowee Trace"
 ---
 
+I am currently a Lecturer and the Director of Assessment in the Center for ESL at the University of Kentucky.
 
+My specialites in applied linguistics are situated in two fields, language assessment and research methods.  In the first field, I am interested in research that involves examining the validity of the interpretations and uses of both high-stakes and low-stakes language tests. My research in this area has examined the use of small-sample test equating of placement tests developed by intensive English programs. In addition, my research has investigated applications of corpus linguistics as a method for collecting evidence for interpretive arguments. In the second field, I am interesting in applications of non-parametric analyses to small-sample data such as bootstrapping and the promotion and use of reproducible research tools within the R environment.
+
+I received my PhD in Applied Linguistics from Northern Arizona University.
