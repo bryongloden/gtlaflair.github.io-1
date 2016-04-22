@@ -2,7 +2,6 @@
 layout: page
 ---
 
-Under Construction
-
-<p>Plus icon: <span class="glyphicon glyphicon-plus"></span></p>
-
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+</p>
