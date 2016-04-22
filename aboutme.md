@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About me
 css: "/css/aboutme.css"
 ---
 
