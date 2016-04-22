@@ -1,5 +1,6 @@
 ---
 layout: page
+css: "/css/aboutme.css"
 ---
 
 <p class="about-text">
