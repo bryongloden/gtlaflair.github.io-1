@@ -19,7 +19,7 @@ avatar: "/img/me.jpg"
 navbar-links:
   Teaching: "teaching"
   Projects: "projects"
-  About/Contact: "aboutme"
+  About: "aboutme"
   Links: "links"
   Home: ""
 
