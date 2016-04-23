@@ -24,3 +24,9 @@ __Central Michigan University__<br>
 - ELI 063: Grammar for International Students II<br>
 - ELI 061: Integrated Skills II
 
+__Guest Lectures__
+- ENG 578: ESL Curriculum and Administration, Northern Arizona University (2013)<br>
+_A needs' analysis for language diagnosis and support_<br>
+- SPA 653/MCL 665, L2 Language Assessment, University of Kentucky (2015)<br>
+_Reliability in Language Assessment_
+
