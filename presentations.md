@@ -51,7 +51,7 @@ LaFlair, G. T., Egbert, J., & Miller, D. (2012). _Structural compression and ela
 levels of ESL reading textbook series._ Paper presented at American Association for Applied
 Linguistics (AAAL), Boston, MA.
 
-Johnathon, D. & LaFlair, G. T. (2011). _Resumes and curriculum vitae._ A Workshop presented
+Davidson, J. & LaFlair, G. T. (2011). _Resumes and curriculum vitae._ A Workshop presented
 at the Michigan Writing Center Association (MWCA), Muskegon, MI.
 
 LaFlair, G. T. (2011). _ESL students’ development of self-regulatory writing skills._ Paper
