@@ -8,7 +8,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a Lecturer and Director of Assessment at the University of Kentucky. In the past, I  worked in language assessment in the Program in Intesive English at Northern Arizona University and interned as an assessment research specialist at Cambrdige-Michigan Language Assessments (CaMLA). In addition, I have taught or TA-ed a wide range of ESL, composition, introduction to linguistics, and descriptive grammar courses.
+Currently a Lecturer and Director of Assessment at the University of Kentucky. In the past, I  worked in language assessment in the Program in Intesive English at Northern Arizona University and interned as an assessment research specialist at Cambridge-Michigan Language Assessments (CaMLA). In addition, I have taught or TA-ed a wide range of ESL, composition, introduction to linguistics, and descriptive grammar courses.
 </p>
 
 
