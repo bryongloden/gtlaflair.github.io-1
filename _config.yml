@@ -34,13 +34,14 @@ author:
   email: "gtlaflair@uky.edu"
   github: gtlaflair
   bitbucket: gela8
+  twitter: glaflair
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   github: true
   linkedin: false
   bitbucket: true
