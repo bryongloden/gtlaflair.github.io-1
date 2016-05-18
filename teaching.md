@@ -25,10 +25,10 @@ __Central Michigan University__<br>
 - ELI 061: Integrated Skills II
 
 __Guest Lectures__<br>
+- ENG 657: TESOL Methods II, Texas A & M University-Commerce (2016) <br>
+_Classroom-based Language Assessment_ (recorded lecture)<br>
 - SPA 653/MCL 665: L2 Language Assessment, University of Kentucky (2015)<br>
 _Reliability in Language Assessment_<br>
-- ENG 657: TESOL Methods II, Texas A & M University-Commerce (2015) <br>
-_Classroom-based Language Assessment_ (recorded lecture)<br>
 - ENG 578: ESL Curriculum and Administration, Northern Arizona University (2013)<br>
 _A needs' analysis for language diagnosis and support_
 
