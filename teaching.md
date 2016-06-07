@@ -4,7 +4,6 @@ title: Teaching experience
 ---
 
 __University of Kentucky__<br>
-- MCL 575: Introduction to Linguistics and Language Structure (Summer II, 2016)<br>
 - EAP 120: Reading for Academic Purposes<br>
 - ESL 051: Intensive Writing (Level 5)<br>
 - ESL 031: Intensive Writing (Level 3)<br>
