@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoff LaFlair</title>
+    <description>Lecturer, Director of Assessment in the Center for ESL at the University of Kentucky</description>
+    <link>http://gtlaflair.github.io</link>
+    <atom:link href="http://gtlaflair.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
