@@ -91,11 +91,11 @@ exclude:
 # prose.io options
 prose:
   ignore:
-#    - 404.html
-#    - LICENSE
-#    - feed.xml
-#    - /_includes
-#    - /_layouts
-#    - /css
-#    - /img
-#    - /js
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - /_includes
+    - /_layouts
+    - /css
+    - /img
+    - /js
